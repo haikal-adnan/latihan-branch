@@ -1,3 +1,3 @@
 # latihan-branch
 
-Perubahan commit pada branch Development
+GitHub itu asyik lo.
