@@ -1,3 +1,3 @@
 # latihan-branch
 
-Perubahan commit pada branch Development
+Belajar GitHub di Dicoding itu seru!
